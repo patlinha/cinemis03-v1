@@ -156,7 +156,7 @@ footer .footer-texto-logo {
 
 #img-filme:hover{
     transform: scale(1.02);
-    cursor:pointer;
+    /* cursor:pointer; */
     transition-duration: 300ms;
 }
 

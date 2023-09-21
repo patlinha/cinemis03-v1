@@ -77,7 +77,7 @@ const catalogo = [
         direcao: "Samira Makhmalbaf",
         ciclo: "História do cinema – Ciclo anos 1970: O cinema político pelo mundo e a ascensão dos blockbuster estadunidenses",
         curadoria: "Claudia Bortolato",
-        data: "01/09/2023",
+        data: "06/09/2023",
         horario: "15:00",
         ano: "1970",
         sinopse: "Durante a violenta guerra entre Irã e Iraque, alguns professores curdos perambulam pelas colinas das fronteiras do Irã com quadros negros às suas costas, em busca de alunos e de aprendizes. Said e Reeboir acabam unidos nesta tarefa, liderando um grupo de crianças as quais precisam transmitir seus conhecimentos e manter vivas. Composto por atores amadores, o elenco conta apenas com um intérprete profissional, Bahman Ghobadi, que vive o professor Reeboir. Os restantes dos participantes eram residentes locais e foram recrutados pela equipe de filmagem por lá mesmo. A cineasta iraniana Samira Makhmalbaf - filha do realizador Mohsen Makhmalbaf ('Salam Cinema' e 'Gabbeh') – tinha apenas 18 anos quando estreou na direção e fez 'A Maçã'. Dois anos depois surge o seu segundo filme: 'O Quadro Negro'. Com ele, Samira foi a mais jovem presença em Cannes 2000, tendo sido galardoada com o Prémio do Júri.",
