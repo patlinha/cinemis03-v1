@@ -204,7 +204,7 @@ const catalogo = [
         horario: "15:00",
         ano: "1971",
         sinopse: "Produzido direto para a televisão, “A Estratégia da Aranha” é um drama/mistério político com roteiro baseado no conto “Tema do Traidor e do Herói” (1944), do autor argentino Jorge Luis Borges. Protagonizado por Giulio Brogi e Alida Valli, o filme segue o filho de um mártir antifascista que viaja para a cidade natal do pai e encontra o monumento a ele dedicado depredado. Isso faz com que ele se envolva na busca da verdade sobre sua vida e sobre suas ideias; no meio do caminho, acaba descobrindo segredos do seu pai, morto em circunstâncias estranhas quase 30 anos antes. À medida em que Athos desvenda uma teia de mentiras que parece envolver toda a cidade, mais ele se vê enredado nessa mesma teia. ",
-        imagem: "src=./imagens/filmes/aranha.png",
+        imagem: "src=./imagens/filmes/ARANHA.png",
       },
 
       {
