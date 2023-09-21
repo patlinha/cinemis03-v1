@@ -111,7 +111,7 @@ footer .footer-texto-logo {
 }
 
 #card-filme .card--titulo-data-hora:hover {
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
 #card-filme .titulo-filme {
