@@ -69,7 +69,7 @@ const catalogo = [
         horario: "14:00",
         ano: "2001",
         sinopse: "Mais uma produção do diretor Wes Anderson. Royal Tenenbaum (Gene Hackman) e sua esposa Etheline Tenenbaum (Anjelica Huston) tiveram três filhos, Chas (Ben Stiller), Margot (Gwyneth Paltrow) e Richie (Luke Wilson), e logo depois resolveram se separar. Com o passar dos anos cada um dos filhos demonstrou talentos diferentes, tornando-se todos bem-sucedidos. Chas logo em sua adolescência resolveu investir em bens, demonstrando um dom natural para finanças, enquanto que Margot se tornou uma escritora de sucesso e Richie um tenista profissional de sucesso. Mas toda a história de sucesso dos três jovens Tenenbaums é esquecida quando seu pai resolve reatar os antigos laços e lutar pelo amor de Etheline, que está prestes a se casar com seu contador, Henry Sherman (Danny Glover)",
-        imagem: "src=./imagens/filmes/tenenbaums.PNG",
+        imagem: "src=./imagens/filmes/TENENBAUMS.PNG",
       },
       {
         id: 7,
