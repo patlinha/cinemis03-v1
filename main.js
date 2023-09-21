@@ -85,7 +85,7 @@ const catalogo = [
       },
 
 	{
-        id: 22,
+        id: 21,
         titulo: "MEPHISTO",
         direcao: "Istvan Szabo",
         ciclo: "Cineclube Outubro",
@@ -97,7 +97,7 @@ const catalogo = [
         imagem: "src=./imagens/filmes/mephisto.png",
       },
       {
-        id: 23,
+        id: 22,
         titulo: "Pink Floyd - The Wall",
         direcao: "Alan Parker",
         ciclo: "Sessão Ópera Rock",
@@ -109,7 +109,7 @@ const catalogo = [
         imagem: "src=./imagens/filmes/wall.png",
       },
       {
-        id: 24,
+        id: 23,
         titulo: "O ÚLTIMO FILME",
         direcao: "Dennis Hopper",
         ciclo: "História do cinema – Ciclo anos 1970: O cinema político pelo mundo e a ascensão dos blockbuster estadunidenses.",
@@ -121,7 +121,7 @@ const catalogo = [
         imagem: "src=./imagens/filmes/ultimoFilme.png",
       },
 	{
-        id: 25,
+        id: 24,
         titulo: "POSSESSÃO",
         direcao: "Andrzej Zulawski",
         ciclo: "Grandes Diretores",
@@ -133,7 +133,7 @@ const catalogo = [
         imagem: "src=./imagens/filmes/possessao.png",
       },
 	{
-        id: 26,
+        id: 25,
         titulo: "O ENÍGMA DE ANDRÔMEDA",
         direcao: "Robert Wise",
         ciclo: "Cine Voyager",
@@ -146,7 +146,7 @@ const catalogo = [
       },
 
 	    {
-        id: 27,
+        id: 26,
         titulo: "SEXTA-FEIRA 13 PARTE II",
         direcao: "Steve Miner",
         ciclo: "Terror Slasher",
@@ -159,7 +159,7 @@ const catalogo = [
       },
 
       {
-        id: 28,
+        id: 27,
         titulo: "Um corpo que cai",
         direcao: "Alfred Hitchcock",
         ciclo: "Mestres do Suspense",
@@ -171,7 +171,7 @@ const catalogo = [
         imagem: "src=./imagens/filmes/corpoCai.png",
       },
 	{
-        id: 29,
+        id: 28,
         titulo: "PADRINHOS DE TOKYO",
         direcao: "Satoshi Kon",
         ciclo: "Curtindo Anime",
@@ -183,7 +183,7 @@ const catalogo = [
         imagem: "src=./imagens/filmes/tokyo.png",
       },
 	{
-        id: 30,
+        id: 29,
         titulo: "DON'T THINK I'VE FORGOTTEN: CAMBODIA'S LOST ROCK & ROLL",
         direcao: "John Pirozzi",
         ciclo: "Cine Estrépita",
@@ -194,6 +194,20 @@ const catalogo = [
         sinopse: "Durante as décadas de 1960 e 1970, o Camboja viveu anos de tranquilidade e certo agito cultural. Com forte influencia francesa (de quem foi colônia entre 1867 e 1953), os cambojanos entraram no mundo do Rock'n'Roll através dos europeus. Mais suave e comportado que o original americano, o Yê-Yê, como era chamado, ganhou sotaque oriental, sonoridades locais e personalidade própria. Essa cena crescente foi brutalmente interrompida pela irrupção do Khmer Vermelho durante a guerra do Vietnam. Mas deixou um legado de grandes talentos, que hoje é alvo de colecionadores no mundo inteiro.",
         imagem: "src=./imagens/filmes/cambodia.png",
       },
+
+      {
+        id: 30,
+        titulo: "Educação em Movimento",
+        direcao: "Malena Noguer e Martín Ferrari",
+        ciclo: "Semana Augusto Buonicore",
+        curadoria: "",
+        data: "27/09/2023",
+        horario: "19:30",
+        ano: "2018",
+        sinopse: "O documentário busca problematizar o sentido da educação, desde a vida e vozes de sete experiências, para pensa-la ao longo e largo de Nossa América, para abrir o debate sobre qual educação queremos e para qual sociedade",
+        imagem: "src=./imagens/filmes/educacaoMovimento.png",
+      },
+
 	{
         id: 31,
         titulo: "A ESTRATÉGIA DA ARANHA",
