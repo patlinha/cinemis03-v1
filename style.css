@@ -106,8 +106,6 @@ footer .footer-texto-logo {
     align-items: center;
     margin: 0.125rem;
     padding: 0 0.125rem 0 0.125rem;
-    /*remover depois de finalizado:*/
-    /* background-color: #94a3b8; */
 }
 
 #card-filme .card--titulo-data-hora:hover {
@@ -121,9 +119,6 @@ footer .footer-texto-logo {
     font-weight: 900;
     font-size: 1.5rem; /* 24px */
     line-height: 2rem; /* 32px */
-    
-    /*remover depois de finalizado:*/
-    /* background-color: antiquewhite; */
 }
 
 #card-filme .data-horario {
@@ -227,15 +222,12 @@ p {
         font-weight: 900;
         font-size: 1rem; /* 24px */
         line-height: 2rem; /* 32px */
-        
-        /*remover depois de finalizado:*/
-        /* background-color: antiquewhite; */
     }
 }
 
 
 
 #card-filme .titulo-filme:hover {
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
