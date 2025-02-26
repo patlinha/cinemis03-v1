@@ -1,7 +1,7 @@
 const catalogo = [
     {
       id: 1,
-      titulo: "Ardil 22",
+      titulo: "Inocência",
       direcao: "Mike Nichols",
       ciclo: "História do cinema – Ciclo anos 1970: O cinema político pelo mundo e a ascensão dos blockbuster estadunidenses",
       curadoria: "Claudia Bortolato",
@@ -13,7 +13,7 @@ const catalogo = [
     },
     {
         id: 2,
-        titulo: "O ACONTECIMENTO",
+        titulo: "A Marvada Carne",
         direcao: "Audrey Diwan",
         ciclo: "Cinema & Literatura",
         curadoria: "Ricardo Pereira",
@@ -25,7 +25,7 @@ const catalogo = [
       },
       {
         id: 3,
-        titulo: "A GRANDE CHANTAGEM",
+        titulo: "Eu sei que vou te amar",
         direcao: "Robert Aldrich",
         ciclo: "Ciclo 2023",
         curadoria: "Laerte Ziggiatti",
@@ -37,7 +37,7 @@ const catalogo = [
       },
       {
         id: 4,
-        titulo: "A PASSAGEIRA",
+        titulo: "Kuarup",
         direcao: "Andrzej Munk",
         ciclo: "Pérolas do Cinema",
         curadoria: "Hamilton Rosa Jr.",
@@ -49,7 +49,7 @@ const catalogo = [
       },
       {
         id: 5,
-        titulo: "BRANCA DE NEVE E OS SETE ANÕES",
+        titulo: "A Guerra de Um Homem",
         direcao: "David Hand, William Cottrell, Wilfred Jackson, Larry Morey, Perce Pearce, Ben Sharpsteen",
         ciclo: "Matinê Infantil",
         curadoria: "Ricardo Pereira e Claudia Bortolato",
@@ -61,7 +61,7 @@ const catalogo = [
       },
       {
         id: 6,
-        titulo: "OS EXCÊNTRICOS TENENBAUMS",
+        titulo: "Capitalismo Selvagem",
         direcao: "Wes Anderson",
         ciclo: "Sessão da Tarde",
         curadoria: "Claudia Bortolato",
@@ -73,7 +73,7 @@ const catalogo = [
       },
       {
         id: 7,
-        titulo: "O QUADRO NEGRO",
+        titulo: "O Judeu",
         direcao: "Samira Makhmalbaf",
         ciclo: "História do cinema – Ciclo anos 1970: O cinema político pelo mundo e a ascensão dos blockbuster estadunidenses",
         curadoria: "Claudia Bortolato",
@@ -86,7 +86,7 @@ const catalogo = [
 
 	{
         id: 21,
-        titulo: "MEPHISTO",
+        titulo: "Terra estrangeira",
         direcao: "Istvan Szabo",
         ciclo: "Cineclube Outubro",
         curadoria: "Cineclube Outubro",
@@ -98,7 +98,7 @@ const catalogo = [
       },
       {
         id: 22,
-        titulo: "Pink Floyd - The Wall",
+        titulo: "Miramar",
         direcao: "Alan Parker",
         ciclo: "Sessão Ópera Rock",
         curadoria: "Vitor Valim",
@@ -110,7 +110,7 @@ const catalogo = [
       },
       {
         id: 23,
-        titulo: "O ÚLTIMO FILME",
+        titulo: "O Que É Isso, Companheiro?",
         direcao: "Dennis Hopper",
         ciclo: "História do cinema – Ciclo anos 1970: O cinema político pelo mundo e a ascensão dos blockbuster estadunidenses.",
         curadoria: "Claudia Bortolato",
@@ -122,7 +122,7 @@ const catalogo = [
       },
 	{
         id: 24,
-        titulo: "POSSESSÃO",
+        titulo: "O Primeiro Dia",
         direcao: "Andrzej Zulawski",
         ciclo: "Grandes Diretores",
         curadoria: "Ricardo Pereira",
@@ -134,7 +134,7 @@ const catalogo = [
       },
 	{
         id: 25,
-        titulo: "O ENÍGMA DE ANDRÔMEDA",
+        titulo: "Gêmeas",
         direcao: "Robert Wise",
         ciclo: "Cine Voyager",
         curadoria: "Carolina Idelfonço",
@@ -147,7 +147,7 @@ const catalogo = [
 
 	    {
         id: 26,
-        titulo: "SEXTA-FEIRA 13 PARTE II",
+        titulo: "Redentor",
         direcao: "Steve Miner",
         ciclo: "Terror Slasher",
         curadoria: "Claudia Bortolato",
@@ -160,7 +160,7 @@ const catalogo = [
 
       {
         id: 27,
-        titulo: "Um corpo que cai",
+        titulo: "A Casa de Areia",
         direcao: "Alfred Hitchcock",
         ciclo: "Mestres do Suspense",
         curadoria: "Cláudia Bortolato",
@@ -172,7 +172,7 @@ const catalogo = [
       },
 	{
         id: 28,
-        titulo: "PADRINHOS DE TOKYO",
+        titulo: "Saneamento Básico",
         direcao: "Satoshi Kon",
         ciclo: "Curtindo Anime",
         curadoria: "Andréa Reis",
