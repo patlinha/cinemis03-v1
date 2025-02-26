@@ -8,7 +8,9 @@ const catalogo = [
       data: "11/03/2025",
       horario: "19:30",
       ano: "1983",
-      sinopse: "XXX",
+      minutos: "120 min",
+      idade: "12 anos",
+      sinopse: "No Brasil imperial, um médico itinerante (Édson Celulari) em suas andanças conhece uma moça acometida de malária (Fernanda Torres) por quem se apaixona, sendo correspondido. Entretanto, o pai da jovem a prometeu para um rico fazendeiro da região e não admite ter sua vontade contestada.",
       imagem: "src=./imagens/filmes/01.inocencia.PNG",
     },
     {
@@ -204,6 +206,8 @@ const catalogo = [
           <p>Ciclo: ${filmeCatalogo.ciclo}</p>
           <p>Curadoria: ${filmeCatalogo.curadoria}</p>
           <p>Ano: ${filmeCatalogo.ano}</p>
+          <p>Tempo de Duração: ${filmeCatalogo.minutos}, colorido, original em português</p>
+          <p>Classificação Indicativa: ${filmeCatalogo.idade}</p>
           <!--<button id="btn-favoritar">Favoritar <i class="fa-regular fa-heart"></i></button>-->
         </div>
       </div>
