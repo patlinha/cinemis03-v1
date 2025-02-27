@@ -125,7 +125,7 @@ footer .footer-texto-logo {
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-size: 1.05rem; /* 18px */
+    font-size: 0.75rem; /* 18px */
     line-height: 0.55rem; 
     font-weight: bold;
     border: solid 0.05rem var(--primary-color-transp);
