@@ -240,7 +240,7 @@ const catalogo = [
           <div class="data-horario">
             <p>${filmeCatalogo.data}</p>
             <!--<p class="dia-semana">SÁB</p>-->
-            <p>[${filmeCatalogo.semana}] ${filmeCatalogo.horario}</p>
+            <p>${filmeCatalogo.semana} - ${filmeCatalogo.horario}</p>
           </div>  
           <p class="titulo-filme">${filmeCatalogo.titulo}</p>
         </div>
