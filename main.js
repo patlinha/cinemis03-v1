@@ -53,7 +53,7 @@ const catalogo = [
 	           minutos: "120 min",
       idade: "14 anos",
         sinopse: "Nando, um jovem padre em crise existencial, está sendo preparado para ser missionário entre os índios da região Xingu, onde deve realizar uma experiência comunitária nos moldes das antigas missões jesuítas. Ele vai ter que lutar para manter seu posto, ameaçado por suas convicções políticas que se diferem da igreja e, sobretudo, por sua paixão por Sônia.",
-        imagem: "src=./imagens/filmes/",
+        imagem: "src=./imagens/filmes/04.kuarup.PNG",
       },
       {
         id: 5,
@@ -67,7 +67,7 @@ const catalogo = [
 	           minutos: "93 min",
       idade: "14 anos",
         sinopse: "Baseado em fatos reais: um médico paraguaio e sua família buscam justiça por seu filho, que foi torturado até a morte pelo regime ditatorial de Alfredo Stroessner.",
-        imagem: "src=./imagens/filmes/",
+        imagem: "src=./imagens/filmes/05.guerraHomem.PNG",
       },
       {
         id: 6,
@@ -81,7 +81,7 @@ const catalogo = [
 	           minutos: "86 min",
       idade: "16 anos",
         sinopse: "A jornalista Elisa (Fernanda Torres) e o diretor de uma mineradora Hugo (José Mayer) se envolvem romanticamente quando a moça é encarregada de fazer uma matéria sobre a empresa. Porém, eles entram em conflito quando a Jota Mineração inicia a extrair ouro de terras indígenas.",
-        imagem: "src=./imagens/filmes/",
+        imagem: "src=./imagens/filmes/06.capitalismoSelvagem.PNG",
       },
       {
         id: 7,
@@ -95,7 +95,7 @@ const catalogo = [
 	           minutos: "90 min",
       idade: "14 anos",
         sinopse: "O artista Antônio José da Silva, carioca de nascimento e de origem judaica, foi considerado o mais célebre autor teatral de Portugal do século XVIII. Após o seu julgamento e de sua família pelo Tribunal do Santo Ofício, em Lisboa, Antônio José (Felipe Pinheiro) torna-se estudante da prestigiada Universidade de Coimbra, se casa com uma cristã-nova, Leonor Maria de Carvalho (Cristina Aché), e cada vez mais faz sucesso com suas comédias. Só que sua prima Brites Eugénia (Fernanda Torres) os denúncia de heresia para as autoridades eclesiástas.",
-        imagem: "src=./imagens/filmes/",
+        imagem: "src=./imagens/filmes/07.judeu.PNG",
       },
 
 	{
@@ -110,7 +110,7 @@ const catalogo = [
 		     minutos: "100 min",
       idade: "16 anos",
         sinopse: "Paco decide viajar para Portugal após a morte da mãe e levando uma encomenda misteriosa. Chegando no país, ele conhece Alex e Miguel, que estão envolvidos em um esquema de contrabando. ",
-        imagem: "src=./imagens/filmes/",
+        imagem: "src=./imagens/filmes/08.terraEstrangeira.PNG",
       },
       {
         id: 22,
@@ -124,7 +124,7 @@ const catalogo = [
 	           minutos: "82 min",
       idade: "14 anos",
         sinopse: "Com toques biográficos, Miramar é um adolescente que cresce em um ambiente feliz e privilegiado, mas com uma recordação final triste. Almejando ser diretor, acompanhamos sua formação como cineasta. Aprimorando seus conhecimentos, Miramar se envolve com uma professora de literatura, uma produtora e uma atriz. Com suas experiências e recordações Miramar amadurece como pessoa e como profissional.",
-        imagem: "src=./imagens/filmes/",
+        imagem: "src=./imagens/filmes/09.miramar.PNG",
       },
       {
         id: 23,
@@ -138,7 +138,7 @@ const catalogo = [
 	           minutos: "110 min",
       idade: "14 anos",
         sinopse: "O jornalista Fernando (Pedro Cardoso) e seu amigo César (Selton Mello) abraçam a luta armada contra a ditadura militar no final da década de 60. Os dois alistam num grupo guerrilheiro de esquerda. Em uma das ações do grupo militante, César é ferido e capturado pelos militares. Fernando então planeja o sequestro do embaixador dos Estados Unidos no Brasil, Charles Burke Elbrick (Alan Arkin), para negociar a liberdade de César e de outros companheiros presos.",
-        imagem: "src=./imagens/filmes/",
+        imagem: "src=./imagens/filmes/10.companheiro.PNG",
       },
 	{
         id: 24,
@@ -152,7 +152,7 @@ const catalogo = [
 		     minutos: "75 min",
       idade: "18 anos",
         sinopse: "O destino de João (Luiz Carlos Vasconcelos), encarcerado num presídio do Rio de Janeiro, nunca deveria se cruzar com o de Maria (Fernanda Torres), isolada em seu apartamento. Mas no dia 31 de dezembro de 1999, João foge da prisão. Maria vaga pelas ruas da cidade desamparada e abandonada pelo marido, enquanto João é perseguido nos becos e favelas de Copacabana.",
-        imagem: "src=./imagens/filmes/",
+        imagem: "src=./imagens/filmes/11.primeiroDia.PNG",
       },
 	{
         id: 25,
@@ -166,7 +166,7 @@ const catalogo = [
 		     minutos: "75 min",
       idade: "14 anos",
         sinopse: "Irmãs gêmeas idênticas Iara e Marilena (Fernanda Torres) vivem pregando peças nos homens, fazendo-se passar uma pela outra. Um dia Marilena conhece Osmar (Evandro Mesquita), por quem se apaixona à primeira vista. Iara decide seduzir o namorado da irmã sem que este (e esta) saiba.",
-        imagem: "src=./imagens/filmes/",
+        imagem: "src=./imagens/filmes/12.gemeas.PNG",
       },
 
 	    {
@@ -181,7 +181,7 @@ const catalogo = [
 		         minutos: "100 min",
       idade: "12 anos",
         sinopse: "Amigos que foram separados por rivalidade na infância se encontram mais tarde na vida. Um deles recebeu uma visão de Deus e quer convencer seu amigo a ajudar os necessitados para se redimir dos erros passados. ",
-        imagem: "src=./imagens/filmes/",
+        imagem: "src=./imagens/filmes/13.redentor.jpg",
       },
 
       {
@@ -196,7 +196,7 @@ const catalogo = [
 	           minutos: "103 min",
       idade: "16 anos",
         sinopse: "Uma mulher (Fernanda Torres) e sua mãe (Fernanda Montenegro) são levadas para um deserto distante por seu marido. Após sua morte, são forçadas a passar os próximos anos da sua vida tentando desesperadamente escapar disso.",
-        imagem: "src=./imagens/filmes/",
+        imagem: "src=./imagens/filmes/14.casaAreia.webp",
       },
 	{
         id: 28,
@@ -210,7 +210,7 @@ const catalogo = [
 		     minutos: "112 min",
       idade: "14 anos",
         sinopse: "Os moradores de Linha Cristal reúnem-se para tomar providências a respeito da construção de uma fossa para o tratamento do esgoto. A secretária da prefeitura reconhece a necessidade da obra, mas informa que não terá verba para realizá-la até o final do ano. Entretanto, a prefeitura dispõe de quase R$ 10 mil para a produção de um vídeo. Este dinheiro foi dado pelo governo federal e, se não for usado, será devolvido em breve. Surge então a idéia de usar a quantia para realizar a obra e rodar um vídeo sobre a própria obra. Os moradores se reúnem para elaborar um filme, que seria estrelado por um mostro que vive nas obras de construção de uma fossa.",
-        imagem: "src=./imagens/filmes/",
+        imagem: "src=./imagens/filmes/15.saneamentoBasico.PNG",
       }
 
   ];
@@ -236,7 +236,7 @@ const catalogo = [
           <p>Ano: ${filmeCatalogo.ano}</p>
           <p>Tempo de Duração: ${filmeCatalogo.minutos}, colorido, original em português</p>
           <p>Classificação Indicativa: ${filmeCatalogo.idade}</p>
-          <p>Classificação Indicativa: ${filmeCatalogo.sinopse}</p>
+          <p>Sinopse: ${filmeCatalogo.sinopse}</p>
           <!--<button id="btn-favoritar">Favoritar <i class="fa-regular fa-heart"></i></button>-->
         </div>
       </div>
