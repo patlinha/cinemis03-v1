@@ -104,8 +104,8 @@ footer .footer-texto-logo {
 #card-filme .card--titulo-data-hora {
     display: flex;
     align-items: center;
-    margin: 0.9rem;
-    padding: 0 0.125rem 0 0.125rem;
+    margin: 0.125rem;
+    padding: 0 0.9rem 0 0.9rem;
 }
 
 #card-filme .card--titulo-data-hora:hover {
