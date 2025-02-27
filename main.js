@@ -65,7 +65,7 @@ const catalogo = [
         direcao: "Sérgio Toledo",
         ciclo: "Fernanda Torres",
         curadoria: "Nayara Lopes",
-        data: "15/03/2025",
+        data: "15/03/25",
 	      semana: "sáb",
         horario: "16:00",
         ano: "1937",
