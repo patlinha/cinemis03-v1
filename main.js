@@ -236,7 +236,7 @@ const catalogo = [
         <img id="img-filme" ${filmeCatalogo.imagem}
         alt="Filme do Circuito Cineclubista de Filmes."
         />
-        <div class="card--titulo-data-hora">
+                <div class="card--titulo-data-hora">
           <div class="data-horario">
           <p class="titulo-filme">${filmeCatalogo.titulo}</p>  
           <p>${filmeCatalogo.data} | ${filmeCatalogo.semana} às ${filmeCatalogo.horario}</p>
