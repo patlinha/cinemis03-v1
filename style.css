@@ -128,8 +128,8 @@ footer .footer-texto-logo {
     font-size: 0.75rem; /* 18px */
     line-height: 0.55rem; 
     font-weight: bold;
-    border: solid 0.05rem var(--primary-color-transp);
-    border-radius: 0.25rem; 
+    /* border: solid 0.05rem var(--primary-color-transp); */
+    /* border-radius: 0.25rem;  */
     padding: 0.25rem; 
 
 }
