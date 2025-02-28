@@ -238,18 +238,18 @@ const catalogo = [
         />
         <div class="card--titulo-data-hora">
           <div class="data-horario">
-            <p>${filmeCatalogo.data}</p>
+          <p class="titulo-filme">${filmeCatalogo.titulo}</p>  
+          <p>${filmeCatalogo.data} | ${filmeCatalogo.semana} às ${filmeCatalogo.horario}</p>
             <!--<p class="dia-semana">SÁB</p>-->
-            <p>${filmeCatalogo.semana} - ${filmeCatalogo.horario}</p>
           </div>  
-          <p class="titulo-filme">${filmeCatalogo.titulo}</p>
+          
         </div>
         <div class="info-geral">
           <p>Direção: ${filmeCatalogo.direcao}</p>
           <p>Ciclo: ${filmeCatalogo.ciclo}</p>
           <p>Curadoria: ${filmeCatalogo.curadoria}</p>
-          <p>Ano: ${filmeCatalogo.ano}</p>
-          <p>Tempo de Duração: ${filmeCatalogo.minutos}, colorido, original em português</p>
+          <p>País/Ano: Brasil, ${filmeCatalogo.ano}</p>
+          <p><b>Tempo de Duração:</b> ${filmeCatalogo.minutos}, colorido, português</p>
           <p>Classificação Indicativa: ${filmeCatalogo.idade}</p>
           <p>Sinopse: ${filmeCatalogo.sinopse}</p>
           <!--<button id="btn-favoritar">Favoritar <i class="fa-regular fa-heart"></i></button>-->
